@@ -1,6 +1,7 @@
 
 # Cursor-rules
-Cursor 规则
+- Cursor 规则
+- 作为全局规则使用
 
 # 语言
  - 中
