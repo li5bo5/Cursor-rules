@@ -5,6 +5,7 @@ Cursor 规则
 # 语言
  - 中
  - 英
+ - DeepSeek 英汉互译
 
 # 参考
  - https://cursor.directory/
